@@ -1,21 +1,123 @@
 <!-- ================= HEADER ================= -->
-<h1 align="center" style="color:#FF8C00;">🔥 Luthira Hansana</h1>
-<h3 align="center">Frontend Developer • UI/UX Enthusiast • Future Tech Innovator</h3>
+<h1 align="center" style="color:#FF8C00;">
+LUTHIRA HANSANA
+</h1>
 
-<!-- =============== TYPING EFFECT =============== -->
+<h3 align="center">
+Frontend Developer | UI Engineer | Web Development Focused Student
+</h3>
+
+<!-- ================= TYPING ANIMATION ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF8C00&size=28&center=true&vCenter=true&width=700&lines=Hi+I'm+Luthira+Hansana;Frontend+Developer;Building+Modern+Web+Experiences;Focused+on+UI%2FUX;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF8C00&size=24&center=true&vCenter=true&width=800&lines=Frontend+Developer;Building+Modern+Web+Interfaces;Focused+on+Clean+UI+and+Scalable+Code;Continuous+Learning+in+Web+Technologies" />
 </p>
 
 ---
 
-## 🧠 About Me
+## PROFILE SUMMARY
 
-- 🎓 Student at **Thurstan College**
-- 💻 Passionate about **Frontend Development**
-- 🎨 Focused on **modern UI/UX design**
-- 🚀 Building real-world projects and improving daily
-- 🔥 Goal: Become a **world-class developer**
+I am a frontend developer focused on building structured, responsive, and high-performance web applications. My approach emphasizes clean architecture, reusable components, and scalable design systems.
+
+I continuously improve my skills through real-world projects and hands-on development practice, with a strong focus on modern frontend technologies and user experience.
+
+---
+
+## TECHNICAL SKILLS
+
+Frontend:
+HTML, CSS, JavaScript, React, Tailwind CSS
+
+Tools:
+Git, GitHub, VS Code, Chrome DevTools
+
+---
+
+## DEVELOPMENT FOCUS
+
+- Component-based architecture
+- Responsive UI development
+- Performance optimization
+- Scalable frontend systems
+- Clean and maintainable code
+
+---
+
+## GITHUB STATISTICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luthirahansana&show_icons=true&theme=vision-friendly-dark&title_color=FF8C00&icon_color=FF8C00&hide_border=true" height="170"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luthirahansana&theme=dark&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&hide_border=true" height="170"/>
+</p>
+
+---
+
+## MOST USED LANGUAGES
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luthirahansana&layout=compact&theme=vision-friendly-dark&title_color=FF8C00&hide_border=true"/>
+</p>
+
+---
+
+## DEVELOPMENT ACTIVITY
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luthirahansana&theme=github-dark&color=FF8C00&line=FF8C00&point=ffffff&hide_border=true"/>
+</p>
+
+---
+
+## PROJECTS
+
+Frontend Portfolio Website  
+A responsive personal portfolio built with modern UI principles.
+
+UI Component System  
+Reusable frontend components designed for scalability.
+
+Web Applications  
+Real-world projects focused on performance and usability.
+
+---
+
+## PROFESSIONAL LINKS
+
+LinkedIn:
+https://lk.linkedin.com/in/luthira-hansana-37a884407
+
+Portfolio:
+https://luthirahansana.com
+
+---
+
+## CURRENT OBJECTIVES
+
+- Advanced React ecosystem mastery  
+- UI/UX system design improvement  
+- Real-world production-level projects  
+- Performance optimization techniques  
+- Expanding professional portfolio  
+
+---
+
+## DEVELOPMENT APPROACH
+
+I focus on structured planning before implementation, reusable design systems, and continuous refinement of code quality. My goal is to build applications that are both visually refined and technically efficient.
+
+---
+
+## PROFILE VIEWS
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=luthirahansana&color=FF8C00&style=flat-square"/>
+</p>
+
+---
+
+<h3 align="center" style="color:#FF8C00;">
+FOCUSED ON BUILDING MODERN AND SCALABLE WEB EXPERIENCES
+</h3>- 🔥 Goal: Become a **world-class developer**
 
 ---
 
